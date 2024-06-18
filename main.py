@@ -25,7 +25,7 @@ def get_saved_id():
     with open(SAVED_ID_PATH, "r", encoding = 'utf-8') as f:
         saved_id = f.read()
     
-    return saved_id
+    return saved_id.strip()
 
 
 
@@ -60,7 +60,7 @@ def collect_data():
 
     for post_box in post_boxes:
         try:
-            id = post_box.find("article").get("id")
+            id = post_box.find("article").get("id").strip()
             print(f"   * {id} {type(id)}")
         except:
             continue
