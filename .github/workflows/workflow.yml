@@ -3,6 +3,11 @@ name: Free Steam Seeker
 on:
   push:
 
+env:
+  CHAT_ID: ${{secrets.CHAT_ID}}
+  BOT_TOKEN: ${{secrets.BOT_TOKEN}}
+  SAVED_ID_PATH: ${{secrets.SAVED_ID_PATH}}
+
 jobs:
   build:
     runs-on: ubuntu-latest
