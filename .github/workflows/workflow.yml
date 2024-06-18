@@ -2,18 +2,8 @@ name: Free Steam Seeker
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-        type: choice
-        options:
-        - info
-        - warning
-        - debug
 
 env:
   CHAT_ID: ${{secrets.CHAT_ID}}
