@@ -1,0 +1,12 @@
+name: Free Steam Seeker
+
+on:
+  push:
+
+jobs:
+  Flow-Work:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkoutV@v4
+        
