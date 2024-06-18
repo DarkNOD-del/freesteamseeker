@@ -54,6 +54,8 @@ def collect_data():
     
     saved_id = get_saved_id()
 
+    print(f"[OPEN]  Последний сохраненный ID: {saved_id}")
+    
     post_boxes = blog_grid.find_all("div", class_ = "post-box")
 
     new_posts = []
@@ -116,7 +118,7 @@ def collect_data():
         return
     
     new_posts.reverse()
-
+    
     print(f"[FOUND] Найдено новых постов: {len(new_posts)}")
 
     bot = telebot.TeleBot(BOT_TOKEN)
