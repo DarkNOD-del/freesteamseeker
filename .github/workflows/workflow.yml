@@ -2,7 +2,7 @@ name: Free Steam Seeker
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 env:
