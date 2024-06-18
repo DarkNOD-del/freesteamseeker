@@ -24,8 +24,8 @@ jobs:
         run: python main.py
       - name: Commit Files
         run: |
-          git config --local user.email misha-ch@bk.ru
-          git config --local user.name DarkNOD-del
+          git config --local user.email ${{ secrets.GIT_EMAIL }}
+          git config --local user.name ${{ secrets.GIT_NAME }}
           git commit -am "Updated Last ID" || true
       - name: Push Changes
         uses: ad-m/github-push-action@master
