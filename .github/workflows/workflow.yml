@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --local user.email misha-ch@bk.ru
           git config --local user.name DarkNOD-del
-          git commit -am "Updated Last ID"
+          git commit -am "Updated Last ID" || true
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
