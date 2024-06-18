@@ -3,6 +3,7 @@ name: Free Steam Seeker
 on:
   schedule:
     - cron: '0 */1 * * *'
+  workflow_dispatch:
 
 env:
   CHAT_ID: ${{secrets.CHAT_ID}}
