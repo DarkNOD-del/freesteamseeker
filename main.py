@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
 
-load_dotenv()
 
 CHAT_ID       = os.getenv('CHAT_ID')
 BOT_TOKEN     = os.getenv('BOT_TOKEN')
@@ -142,7 +141,7 @@ def collect_data():
     
 
 def main():   
-    os.system("cls || clear")
+    os.system("clear")
     print("[START] Работа началась")
     collect_data()
     print("[END]   Работа окончена")
