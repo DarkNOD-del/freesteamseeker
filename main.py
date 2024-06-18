@@ -51,8 +51,6 @@ def collect_data():
         return
     
     saved_id = get_saved_id()
-
-    print(f"[OPEN]  Последний сохраненный ID: {saved_id}")
     
     post_boxes = blog_grid.find_all("div", class_ = "post-box")
 
