@@ -59,6 +59,7 @@ def collect_data():
     post_boxes = blog_grid.find_all("div", class_ = "post-box")
 
     new_posts = []
+    titles = []
 
     for post_box in post_boxes:
         try:
@@ -68,6 +69,7 @@ def collect_data():
 
         try:
             title = post_box.find("h2", class_ = "entry-title").text.strip()
+            titles.append(title)
         except:
             title = "Нет данных"
 
@@ -98,7 +100,7 @@ def collect_data():
             posted_on = post_box.find("div", class_ = "posted-on").text.split("Опубликовано")[1].strip()
         except:
             posted_on = "Нет данных"
-
+        
         if saved_id == id:
             break
 
@@ -112,6 +114,8 @@ def collect_data():
             "post_link" : post_link,
             "banner_link" : banner_link
         })
+        
+    print(f"[READ]  {'Файл README.md обновлен' if update_readme(last_post = titles[0]) else 'Не удалось обновить файл README.md'}")
 
     if len(new_posts) <= 0:
         print("[FOUND] Новых постов не обнаружено")
@@ -139,8 +143,6 @@ def collect_data():
             print(f"   [{i + 1}/{len(new_posts)}] Не удалось отправить пост")
 
         time.sleep(0.5)
-
-    print(f"[READ]  {'Файл README.md обновлен' if update_readme(last_post = new_posts[-1]['title']) else 'Не удалось обновить файл README.md'}")
 
     
 
