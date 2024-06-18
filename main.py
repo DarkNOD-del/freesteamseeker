@@ -4,8 +4,6 @@ import telebot
 import requests
 from telebot import types
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
-
 
 
 CHAT_ID       = os.getenv('CHAT_ID')
@@ -63,6 +61,7 @@ def collect_data():
     for post_box in post_boxes:
         try:
             id = post_box.find("article").get("id")
+            print(f"   * ({id})")
         except:
             continue
 
@@ -100,6 +99,7 @@ def collect_data():
             posted_on = "Нет данных"
 
         if saved_id == id:
+            print(f"   * Уже отправлялся ({id})")
             break
 
         new_posts.append({
