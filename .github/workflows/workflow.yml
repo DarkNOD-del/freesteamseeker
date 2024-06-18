@@ -1,7 +1,8 @@
 name: Free Steam Seeker
 
 on:
-  push:
+  schedule:
+    - cron: '0 */1 * * *'
 
 env:
   CHAT_ID: ${{secrets.CHAT_ID}}
