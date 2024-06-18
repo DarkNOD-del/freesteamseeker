@@ -4,7 +4,11 @@ import telebot
 import requests
 from telebot import types
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 
+from py.update_readme import update_readme
+
+load_dotenv()
 
 CHAT_ID       = os.getenv('CHAT_ID')
 BOT_TOKEN     = os.getenv('BOT_TOKEN')
@@ -135,6 +139,8 @@ def collect_data():
             print(f"   [{i + 1}/{len(new_posts)}] Не удалось отправить пост")
 
         time.sleep(0.5)
+
+    print(f"[READ]  {'Файл README.md обновлен' if update_readme(last_post = new_posts[-1]['title']) else 'Не удалось обновить файл README.md'}")
 
     
 
