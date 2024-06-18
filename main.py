@@ -52,7 +52,7 @@ def collect_data():
     
     saved_id = get_saved_id()
 
-    print(f"[OPEN]  Последний сохраненный ID: {saved_id} {type(saved_id)}")
+    print(f"[OPEN]  Последний сохраненный ID: {saved_id}")
     
     post_boxes = blog_grid.find_all("div", class_ = "post-box")
 
@@ -61,7 +61,6 @@ def collect_data():
     for post_box in post_boxes:
         try:
             id = post_box.find("article").get("id").strip()
-            print(f"   * {id} {type(id)}")
         except:
             continue
 
@@ -99,7 +98,6 @@ def collect_data():
             posted_on = "Нет данных"
 
         if saved_id == id:
-            print(f"   * Уже отправлялся {id} {type(id)}")
             break
 
         new_posts.append({
