@@ -34,7 +34,7 @@ def get_date():
 
 
 
-def update_readme(last_post):
+def update_readme(post_title, post_banner):
     try:
         content = f"""
 
@@ -45,7 +45,9 @@ def update_readme(last_post):
 ## ⚡️ Актуальные данные
 
 Последнее обновление: `{get_date()}`  
-Последняя сохраненная игра: `{last_post}` 
+Последняя сохраненная игра: `{post_title}` 
+
+<img width="100%" src='{post_banner}' alt='{post_title}'/>
 
 ## 🔗 Сайты-доноры
 
