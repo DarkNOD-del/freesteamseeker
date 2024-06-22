@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 21 июня 2024 в 21:14 по UTC`  
+Последнее обновление: `Суббота, 22 июня 2024 в 01:01 по UTC`  
 Последняя сохраненная игра: `Раздача Freshly Frosted для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-446.jpg' alt='Раздача Freshly Frosted для EpicGames'/>
