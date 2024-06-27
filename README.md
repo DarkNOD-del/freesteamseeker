@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 июня 2024 в 15:15 по UTC`  
-Последняя сохраненная игра: `Раздача Islands of Insight для Steam` 
+Последнее обновление: `Четверг, 27 июня 2024 в 18:17 по UTC`  
+Последняя сохраненная игра: `Раздача Sunless Skies: Sovereign Edition для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-447.jpg' alt='Раздача Islands of Insight для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-448.jpg' alt='Раздача Sunless Skies: Sovereign Edition для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
