@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 июня 2024 в 18:17 по UTC`  
+Последнее обновление: `Четверг, 27 июня 2024 в 21:12 по UTC`  
 Последняя сохраненная игра: `Раздача Sunless Skies: Sovereign Edition для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-448.jpg' alt='Раздача Sunless Skies: Sovereign Edition для EpicGames'/>
