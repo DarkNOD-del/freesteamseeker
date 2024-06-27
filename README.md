@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 июня 2024 в 12:26 по UTC`  
+Последнее обновление: `Четверг, 27 июня 2024 в 15:15 по UTC`  
 Последняя сохраненная игра: `Раздача Islands of Insight для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-447.jpg' alt='Раздача Islands of Insight для Steam'/>
