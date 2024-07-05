@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 04 июля 2024 в 21:12 по UTC`  
+Последнее обновление: `Пятница, 05 июля 2024 в 01:02 по UTC`  
 Последняя сохраненная игра: `Раздача The Falconeer для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-449.jpg' alt='Раздача The Falconeer для EpicGames'/>
