@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 10 июля 2024 в 06:19 по UTC`  
+Последнее обновление: `Среда, 10 июля 2024 в 09:14 по UTC`  
 Последняя сохраненная игра: `Раздача Cakey’s Twisted Bakery для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-450.jpg' alt='Раздача Cakey’s Twisted Bakery для Steam'/>
