@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 15 июля 2024 в 12:28 по UTC`  
+Последнее обновление: `Понедельник, 15 июля 2024 в 15:16 по UTC`  
 Последняя сохраненная игра: `Раздача Floppy Knights для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-12.jpg' alt='Раздача Floppy Knights для EpicGames'/>
