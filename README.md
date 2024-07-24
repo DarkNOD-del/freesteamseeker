@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 24 июля 2024 в 18:19 по UTC`  
+Последнее обновление: `Среда, 24 июля 2024 в 21:14 по UTC`  
 Последняя сохраненная игра: `Раздача Arcade Paradise для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-452.jpg' alt='Раздача Arcade Paradise для EpicGames'/>
