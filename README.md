@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 25 июля 2024 в 15:14 по UTC`  
-Последняя сохраненная игра: `Раздача Arcade Paradise для EpicGames` 
+Последнее обновление: `Четверг, 25 июля 2024 в 18:18 по UTC`  
+Последняя сохраненная игра: `Раздача F.I.S.T.: Forged In Shadow Torch для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-452.jpg' alt='Раздача Arcade Paradise для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-454.jpg' alt='Раздача F.I.S.T.: Forged In Shadow Torch для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
