@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 26 июля 2024 в 21:13 по UTC`  
+Последнее обновление: `Суббота, 27 июля 2024 в 01:03 по UTC`  
 Последняя сохраненная игра: `Раздача F.I.S.T.: Forged In Shadow Torch для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-454.jpg' alt='Раздача F.I.S.T.: Forged In Shadow Torch для EpicGames'/>
