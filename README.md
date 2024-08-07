@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 07 августа 2024 в 06:20 по UTC`  
+Последнее обновление: `Среда, 07 августа 2024 в 09:15 по UTC`  
 Последняя сохраненная игра: `Раздача LumbearJack для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-457.jpg' alt='Раздача LumbearJack для EpicGames'/>
