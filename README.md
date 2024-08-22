@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 22 августа 2024 в 06:20 по UTC`  
+Последнее обновление: `Четверг, 22 августа 2024 в 09:15 по UTC`  
 Последняя сохраненная игра: `Раздача Death’s Gambit: Afterlife для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-461.jpg' alt='Раздача Death’s Gambit: Afterlife для EpicGames'/>
