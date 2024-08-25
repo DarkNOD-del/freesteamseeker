@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 25 августа 2024 в 01:11 по UTC`  
+Последнее обновление: `Воскресенье, 25 августа 2024 в 03:15 по UTC`  
 Последняя сохраненная игра: `Раздача Distant Space для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-462.jpg' alt='Раздача Distant Space для Steam'/>
