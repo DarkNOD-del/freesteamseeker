@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 04 сентября 2024 в 06:21 по UTC`  
+Последнее обновление: `Среда, 04 сентября 2024 в 09:16 по UTC`  
 Последняя сохраненная игра: `Раздача Wild Card Football для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-466.jpg' alt='Раздача Wild Card Football для EpicGames'/>
