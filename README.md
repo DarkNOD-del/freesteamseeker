@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 05 сентября 2024 в 12:29 по UTC`  
-Последняя сохраненная игра: `Раздача Wild Card Football для EpicGames` 
+Последнее обновление: `Четверг, 05 сентября 2024 в 15:15 по UTC`  
+Последняя сохраненная игра: `Раздача Sniper Ghost Warrior Contracts для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-466.jpg' alt='Раздача Wild Card Football для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-467.jpg' alt='Раздача Sniper Ghost Warrior Contracts для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
