@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 09 сентября 2024 в 15:15 по UTC`  
+Последнее обновление: `Понедельник, 09 сентября 2024 в 18:20 по UTC`  
 Последняя сохраненная игра: `Раздача Sniper Ghost Warrior Contracts для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-467.jpg' alt='Раздача Sniper Ghost Warrior Contracts для EpicGames'/>
