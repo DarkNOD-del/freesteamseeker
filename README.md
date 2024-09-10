@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 10 сентября 2024 в 15:15 по UTC`  
-Последняя сохраненная игра: `Раздача Sniper Ghost Warrior Contracts для EpicGames` 
+Последнее обновление: `Вторник, 10 сентября 2024 в 18:20 по UTC`  
+Последняя сохраненная игра: `Раздача Press Any Button для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-467.jpg' alt='Раздача Sniper Ghost Warrior Contracts для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-469.jpg' alt='Раздача Press Any Button для Steam'/>
 
 ## 🔗 Сайты-доноры
 
