@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 11 сентября 2024 в 03:16 по UTC`  
+Последнее обновление: `Среда, 11 сентября 2024 в 06:21 по UTC`  
 Последняя сохраненная игра: `Раздача Press Any Button для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-469.jpg' alt='Раздача Press Any Button для Steam'/>
