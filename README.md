@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 12 сентября 2024 в 12:29 по UTC`  
-Последняя сохраненная игра: `Раздача Press Any Button для Steam` 
+Последнее обновление: `Четверг, 12 сентября 2024 в 15:15 по UTC`  
+Последняя сохраненная игра: `Раздача Rugrats: Adventures in Gameland для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-469.jpg' alt='Раздача Press Any Button для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-472.jpg' alt='Раздача Rugrats: Adventures in Gameland для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
