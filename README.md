@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 14 сентября 2024 в 12:27 по UTC`  
+Последнее обновление: `Суббота, 14 сентября 2024 в 15:14 по UTC`  
 Последняя сохраненная игра: `Раздача Rugrats: Adventures in Gameland для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-472.jpg' alt='Раздача Rugrats: Adventures in Gameland для EpicGames'/>
