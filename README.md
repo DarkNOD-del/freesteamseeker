@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 22 сентября 2024 в 15:14 по UTC`  
+Последнее обновление: `Воскресенье, 22 сентября 2024 в 18:19 по UTC`  
 Последняя сохраненная игра: `Раздача The Last Stand: Aftermath для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-474.jpg' alt='Раздача The Last Stand: Aftermath для EpicGames'/>
