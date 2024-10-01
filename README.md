@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 01 октября 2024 в 12:32 по UTC`  
+Последнее обновление: `Вторник, 01 октября 2024 в 15:16 по UTC`  
 Последняя сохраненная игра: `Раздача The Spirit and the Mouse для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-475.jpg' alt='Раздача The Spirit and the Mouse для EpicGames'/>
