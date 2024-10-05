@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 04 октября 2024 в 21:14 по UTC`  
+Последнее обновление: `Суббота, 05 октября 2024 в 01:12 по UTC`  
 Последняя сохраненная игра: `Раздача Bear and Breakfast для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-477.jpg' alt='Раздача Bear and Breakfast для EpicGames'/>
