@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 10 октября 2024 в 01:12 по UTC`  
+Последнее обновление: `Четверг, 10 октября 2024 в 03:20 по UTC`  
 Последняя сохраненная игра: `Раздача Castle Break для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-478.jpg' alt='Раздача Castle Break для Steam'/>
