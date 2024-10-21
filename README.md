@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 21 октября 2024 в 06:23 по UTC`  
+Последнее обновление: `Понедельник, 21 октября 2024 в 09:18 по UTC`  
 Последняя сохраненная игра: `Раздача Kardboard Kings: Card Shop Simulator для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-484.jpg' alt='Раздача Kardboard Kings: Card Shop Simulator для EpicGames'/>
