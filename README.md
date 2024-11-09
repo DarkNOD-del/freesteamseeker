@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 09 ноября 2024 в 06:19 по UTC`  
+Последнее обновление: `Суббота, 09 ноября 2024 в 09:14 по UTC`  
 Последняя сохраненная игра: `Раздача Deceive Inc для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-492.jpg' alt='Раздача Deceive Inc для EpicGames'/>
