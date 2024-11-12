@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 12 ноября 2024 в 03:18 по UTC`  
+Последнее обновление: `Вторник, 12 ноября 2024 в 06:22 по UTC`  
 Последняя сохраненная игра: `Раздача NO STRANGERS для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-493.jpg' alt='Раздача NO STRANGERS для Steam'/>
