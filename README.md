@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 14 ноября 2024 в 21:15 по UTC`  
+Последнее обновление: `Пятница, 15 ноября 2024 в 01:17 по UTC`  
 Последняя сохраненная игра: `Раздача Castlevania для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-495.jpg' alt='Раздача Castlevania для EpicGames'/>
