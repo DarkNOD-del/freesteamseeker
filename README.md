@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 27 ноября 2024 в 18:22 по UTC`  
+Последнее обновление: `Среда, 27 ноября 2024 в 21:15 по UTC`  
 Последняя сохраненная игра: `Раздача Dark Sector для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-498.jpg' alt='Раздача Dark Sector для Steam'/>
