@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 29 ноября 2024 в 03:30 по UTC`  
+Последнее обновление: `Пятница, 29 ноября 2024 в 06:24 по UTC`  
 Последняя сохраненная игра: `Раздача Brotato для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-499.jpg' alt='Раздача Brotato для EpicGames'/>
