@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 12 декабря 2024 в 18:24 по UTC`  
-Последняя сохраненная игра: `Раздача Pankapu для Steam` 
+Последнее обновление: `Четверг, 12 декабря 2024 в 21:15 по UTC`  
+Последняя сохраненная игра: `Раздача The Lord of the Rings: Return to Moria для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-503.jpg' alt='Раздача Pankapu для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-505.jpg' alt='Раздача The Lord of the Rings: Return to Moria для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
