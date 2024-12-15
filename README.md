@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 15 декабря 2024 в 18:21 по UTC`  
+Последнее обновление: `Воскресенье, 15 декабря 2024 в 21:14 по UTC`  
 Последняя сохраненная игра: `Раздача The Lord of the Rings: Return to Moria для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-505.jpg' alt='Раздача The Lord of the Rings: Return to Moria для EpicGames'/>
