@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 19 декабря 2024 в 18:21 по UTC`  
+Последнее обновление: `Четверг, 19 декабря 2024 в 21:14 по UTC`  
 Последняя сохраненная игра: `Раздача Vampire Survivors для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-506.jpg' alt='Раздача Vampire Survivors для EpicGames'/>
