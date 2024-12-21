@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 21 декабря 2024 в 03:18 по UTC`  
+Последнее обновление: `Суббота, 21 декабря 2024 в 06:20 по UTC`  
 Последняя сохраненная игра: `Раздача Astrea Six Sided Oracles для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-508.jpg' alt='Раздача Astrea Six Sided Oracles для EpicGames'/>
