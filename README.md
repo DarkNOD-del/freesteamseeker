@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 21 декабря 2024 в 21:13 по UTC`  
+Последнее обновление: `Воскресенье, 22 декабря 2024 в 01:19 по UTC`  
 Последняя сохраненная игра: `Раздача TerraTech для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-509.jpg' alt='Раздача TerraTech для EpicGames'/>
