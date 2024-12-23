@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 23 декабря 2024 в 06:23 по UTC`  
+Последнее обновление: `Понедельник, 23 декабря 2024 в 09:17 по UTC`  
 Последняя сохраненная игра: `Раздача Wizard of Legend для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-510.jpg' alt='Раздача Wizard of Legend для EpicGames'/>
