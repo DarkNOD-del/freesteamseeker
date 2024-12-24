@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 24 декабря 2024 в 09:16 по UTC`  
+Последнее обновление: `Вторник, 24 декабря 2024 в 12:31 по UTC`  
 Последняя сохраненная игра: `Раздача Dark and Darker для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-511.jpg' alt='Раздача Dark and Darker для EpicGames'/>
