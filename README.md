@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 27 декабря 2024 в 18:20 по UTC`  
+Последнее обновление: `Пятница, 27 декабря 2024 в 21:13 по UTC`  
 Последняя сохраненная игра: `Раздача The Dark Eye: Chains of Satinav для GOG` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-516.jpg' alt='Раздача The Dark Eye: Chains of Satinav для GOG'/>
