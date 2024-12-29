@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 29 декабря 2024 в 01:20 по UTC`  
+Последнее обновление: `Воскресенье, 29 декабря 2024 в 03:24 по UTC`  
 Последняя сохраненная игра: `Раздача KILL KNIGHT для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-14.jpg' alt='Раздача KILL KNIGHT для EpicGames'/>
