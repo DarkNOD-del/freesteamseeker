@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 29 декабря 2024 в 21:13 по UTC`  
+Последнее обновление: `Понедельник, 30 декабря 2024 в 01:15 по UTC`  
 Последняя сохраненная игра: `Раздача Orcs Must Die! 3 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-517.jpg' alt='Раздача Orcs Must Die! 3 для EpicGames'/>
