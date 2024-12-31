@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 30 декабря 2024 в 21:14 по UTC`  
+Последнее обновление: `Вторник, 31 декабря 2024 в 01:13 по UTC`  
 Последняя сохраненная игра: `Раздача [REDACTED] для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-518.jpg' alt='Раздача [REDACTED] для EpicGames'/>
