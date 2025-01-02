@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 02 января 2025 в 12:31 по UTC`  
+Последнее обновление: `Четверг, 02 января 2025 в 15:15 по UTC`  
 Последняя сохраненная игра: `Раздача Kingdom Come: Deliverance для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-521.jpg' alt='Раздача Kingdom Come: Deliverance для EpicGames'/>
