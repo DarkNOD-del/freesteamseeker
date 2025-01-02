@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 02 января 2025 в 15:15 по UTC`  
-Последняя сохраненная игра: `Раздача Kingdom Come: Deliverance для EpicGames` 
+Последнее обновление: `Четверг, 02 января 2025 в 18:21 по UTC`  
+Последняя сохраненная игра: `Раздача Hell Let Loose для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-521.jpg' alt='Раздача Kingdom Come: Deliverance для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-522.jpg' alt='Раздача Hell Let Loose для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
