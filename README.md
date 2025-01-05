@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 05 января 2025 в 01:19 по UTC`  
+Последнее обновление: `Воскресенье, 05 января 2025 в 03:23 по UTC`  
 Последняя сохраненная игра: `Раздача Hell Let Loose для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-522.jpg' alt='Раздача Hell Let Loose для EpicGames'/>
