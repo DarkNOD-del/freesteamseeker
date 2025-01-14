@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 14 января 2025 в 15:15 по UTC`  
+Последнее обновление: `Вторник, 14 января 2025 в 18:20 по UTC`  
 Последняя сохраненная игра: `Раздача Turmoil для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-523.jpg' alt='Раздача Turmoil для EpicGames'/>
