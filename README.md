@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 17 января 2025 в 01:11 по UTC`  
+Последнее обновление: `Пятница, 17 января 2025 в 03:17 по UTC`  
 Последняя сохраненная игра: `Раздача Escape Academy для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-524.jpg' alt='Раздача Escape Academy для EpicGames'/>
