@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 23 января 2025 в 15:16 по UTC`  
-Последняя сохраненная игра: `Раздача HuniePop для Steam` 
+Последнее обновление: `Четверг, 23 января 2025 в 18:21 по UTC`  
+Последняя сохраненная игра: `Раздача Behind the Frame: The Finest Scenery для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-526.jpg' alt='Раздача HuniePop для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-527.jpg' alt='Раздача Behind the Frame: The Finest Scenery для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
