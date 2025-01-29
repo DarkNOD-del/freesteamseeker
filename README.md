@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 29 января 2025 в 01:11 по UTC`  
+Последнее обновление: `Среда, 29 января 2025 в 03:17 по UTC`  
 Последняя сохраненная игра: `Раздача Behind the Frame: The Finest Scenery для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-527.jpg' alt='Раздача Behind the Frame: The Finest Scenery для EpicGames'/>
