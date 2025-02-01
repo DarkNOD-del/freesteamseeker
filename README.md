@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 01 февраля 2025 в 06:20 по UTC`  
+Последнее обновление: `Суббота, 01 февраля 2025 в 09:15 по UTC`  
 Последняя сохраненная игра: `Раздача Undying для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-528.jpg' alt='Раздача Undying для EpicGames'/>
