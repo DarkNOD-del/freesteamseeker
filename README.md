@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 11 февраля 2025 в 01:12 по UTC`  
+Последнее обновление: `Вторник, 11 февраля 2025 в 03:19 по UTC`  
 Последняя сохраненная игра: `Раздача Beyond Blue для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-531.jpg' alt='Раздача Beyond Blue для EpicGames'/>
