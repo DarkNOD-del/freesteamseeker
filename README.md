@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 21 февраля 2025 в 06:22 по UTC`  
+Последнее обновление: `Пятница, 21 февраля 2025 в 09:16 по UTC`  
 Последняя сохраненная игра: `Раздача World War Z: Aftermath для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-533.jpg' alt='Раздача World War Z: Aftermath для EpicGames'/>
