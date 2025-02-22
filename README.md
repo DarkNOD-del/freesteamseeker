@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 21 февраля 2025 в 21:13 по UTC`  
+Последнее обновление: `Суббота, 22 февраля 2025 в 01:12 по UTC`  
 Последняя сохраненная игра: `Раздача Golden Light для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-534.jpg' alt='Раздача Golden Light для Steam'/>
