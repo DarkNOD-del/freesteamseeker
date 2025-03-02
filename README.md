@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 02 марта 2025 в 09:15 по UTC`  
+Последнее обновление: `Воскресенье, 02 марта 2025 в 12:28 по UTC`  
 Последняя сохраненная игра: `Раздача Mages of Mystralia для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-535.jpg' alt='Раздача Mages of Mystralia для EpicGames'/>
