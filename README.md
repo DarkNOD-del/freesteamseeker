@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 05 марта 2025 в 09:18 по UTC`  
+Последнее обновление: `Среда, 05 марта 2025 в 12:33 по UTC`  
 Последняя сохраненная игра: `Раздача Isle of Jura для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-536.jpg' alt='Раздача Isle of Jura для Steam'/>
