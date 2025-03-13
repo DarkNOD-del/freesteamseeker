@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 13 марта 2025 в 15:18 по UTC`  
-Последняя сохраненная игра: `Раздача Them’s Fightin’ Herds для EpicGames` 
+Последнее обновление: `Четверг, 13 марта 2025 в 18:23 по UTC`  
+Последняя сохраненная игра: `Раздача Scheming Through The Zombie Apocalypse: The Beginning для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-537.jpg' alt='Раздача Them’s Fightin’ Herds для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-539.jpg' alt='Раздача Scheming Through The Zombie Apocalypse: The Beginning для Steam'/>
 
 ## 🔗 Сайты-доноры
 
