@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 16 марта 2025 в 12:29 по UTC`  
+Последнее обновление: `Воскресенье, 16 марта 2025 в 15:15 по UTC`  
 Последняя сохраненная игра: `Раздача Scheming Through The Zombie Apocalypse: The Beginning для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-539.jpg' alt='Раздача Scheming Through The Zombie Apocalypse: The Beginning для Steam'/>
