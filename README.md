@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 18 марта 2025 в 21:15 по UTC`  
+Последнее обновление: `Среда, 19 марта 2025 в 01:18 по UTC`  
 Последняя сохраненная игра: `Раздача Party Club для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-540.jpg' alt='Раздача Party Club для Steam'/>
