@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 22 марта 2025 в 03:29 по UTC`  
+Последнее обновление: `Суббота, 22 марта 2025 в 06:21 по UTC`  
 Последняя сохраненная игра: `Раздача Jurassic World Evolution 2 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-541.jpg' alt='Раздача Jurassic World Evolution 2 для EpicGames'/>
