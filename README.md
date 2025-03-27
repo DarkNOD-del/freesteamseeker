@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 марта 2025 в 12:34 по UTC`  
-Последняя сохраненная игра: `Раздача Jurassic World Evolution 2 для EpicGames` 
+Последнее обновление: `Четверг, 27 марта 2025 в 15:18 по UTC`  
+Последняя сохраненная игра: `Раздача Neko Ghost, Jump! для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-541.jpg' alt='Раздача Jurassic World Evolution 2 для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-542.jpg' alt='Раздача Neko Ghost, Jump! для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
