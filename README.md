@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 28 марта 2025 в 18:23 по UTC`  
+Последнее обновление: `Пятница, 28 марта 2025 в 21:15 по UTC`  
 Последняя сохраненная игра: `Раздача Neko Ghost, Jump! для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-542.jpg' alt='Раздача Neko Ghost, Jump! для EpicGames'/>
