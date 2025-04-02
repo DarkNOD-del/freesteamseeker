@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 01 апреля 2025 в 21:15 по UTC`  
+Последнее обновление: `Среда, 02 апреля 2025 в 01:20 по UTC`  
 Последняя сохраненная игра: `Раздача Dreams of Aether для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-544.jpg' alt='Раздача Dreams of Aether для Steam'/>
