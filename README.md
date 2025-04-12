@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 12 апреля 2025 в 12:30 по UTC`  
+Последнее обновление: `Суббота, 12 апреля 2025 в 15:15 по UTC`  
 Последняя сохраненная игра: `Раздача River City Girls для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-546.jpg' alt='Раздача River City Girls для EpicGames'/>
