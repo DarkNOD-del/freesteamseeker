@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 15 апреля 2025 в 03:36 по UTC`  
+Последнее обновление: `Вторник, 15 апреля 2025 в 06:25 по UTC`  
 Последняя сохраненная игра: `Раздача Metro 2033 Redux для Steam и GOG` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-547.jpg' alt='Раздача Metro 2033 Redux для Steam и GOG'/>
