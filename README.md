@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 16 апреля 2025 в 21:16 по UTC`  
+Последнее обновление: `Четверг, 17 апреля 2025 в 01:20 по UTC`  
 Последняя сохраненная игра: `Раздача AtmaSphere для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-548.jpg' alt='Раздача AtmaSphere для Steam'/>
