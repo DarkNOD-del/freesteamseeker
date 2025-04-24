@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 23 апреля 2025 в 21:16 по UTC`  
+Последнее обновление: `Четверг, 24 апреля 2025 в 01:21 по UTC`  
 Последняя сохраненная игра: `Раздача Botanicula для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-549.jpg' alt='Раздача Botanicula для EpicGames'/>
