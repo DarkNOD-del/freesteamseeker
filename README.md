@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 29 апреля 2025 в 15:19 по UTC`  
+Последнее обновление: `Вторник, 29 апреля 2025 в 18:23 по UTC`  
 Последняя сохраненная игра: `Раздача CHUCHEL для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-550.jpg' alt='Раздача CHUCHEL для EpicGames'/>
