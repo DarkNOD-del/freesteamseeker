@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 03 мая 2025 в 15:16 по UTC`  
+Последнее обновление: `Суббота, 03 мая 2025 в 18:22 по UTC`  
 Последняя сохраненная игра: `Раздача Super Space Club для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-551.jpg' alt='Раздача Super Space Club для EpicGames'/>
