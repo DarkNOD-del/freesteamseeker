@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 08 мая 2025 в 15:19 по UTC`  
-Последняя сохраненная игра: `Раздача LEGO® Star Wars™: The Skywalker Saga для EpicGames` 
+Последнее обновление: `Четверг, 08 мая 2025 в 18:25 по UTC`  
+Последняя сохраненная игра: `Раздача Touch Type Tale для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-552.jpg' alt='Раздача LEGO® Star Wars™: The Skywalker Saga для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-554.jpg' alt='Раздача Touch Type Tale для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
