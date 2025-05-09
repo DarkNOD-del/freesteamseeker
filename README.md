@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 08 мая 2025 в 21:16 по UTC`  
+Последнее обновление: `Пятница, 09 мая 2025 в 01:23 по UTC`  
 Последняя сохраненная игра: `Раздача Touch Type Tale для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-554.jpg' alt='Раздача Touch Type Tale для EpicGames'/>
