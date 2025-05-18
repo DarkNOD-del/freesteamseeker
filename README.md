@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 17 мая 2025 в 21:15 по UTC`  
+Последнее обновление: `Воскресенье, 18 мая 2025 в 01:37 по UTC`  
 Последняя сохраненная игра: `Раздача Dead Island 2 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-557.jpg' alt='Раздача Dead Island 2 для EpicGames'/>
