@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 21 мая 2025 в 12:37 по UTC`  
+Последнее обновление: `Среда, 21 мая 2025 в 15:20 по UTC`  
 Последняя сохраненная игра: `Раздача Cast & Spell для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-558.jpg' alt='Раздача Cast & Spell для Steam'/>
