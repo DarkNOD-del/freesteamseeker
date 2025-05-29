@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 29 мая 2025 в 15:18 по UTC`  
-Последняя сохраненная игра: `Раздача Warhammer 40,000: Gladius – Relics of War для Steam` 
+Последнее обновление: `Четверг, 29 мая 2025 в 18:24 по UTC`  
+Последняя сохраненная игра: `Раздача HITMAN World of Assassination для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_3-1.jpg' alt='Раздача Warhammer 40,000: Gladius – Relics of War для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_8-1.jpg' alt='Раздача HITMAN World of Assassination для Steam'/>
 
 ## 🔗 Сайты-доноры
 
