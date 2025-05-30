@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 30 мая 2025 в 01:23 по UTC`  
+Последнее обновление: `Пятница, 30 мая 2025 в 03:41 по UTC`  
 Последняя сохраненная игра: `Раздача HITMAN World of Assassination для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_8-1.jpg' alt='Раздача HITMAN World of Assassination для Steam'/>
