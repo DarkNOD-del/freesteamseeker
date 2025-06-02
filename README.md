@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 02 июня 2025 в 03:50 по UTC`  
+Последнее обновление: `Понедельник, 02 июня 2025 в 06:28 по UTC`  
 Последняя сохраненная игра: `Раздача A Story About Farting для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-564.jpg' alt='Раздача A Story About Farting для Steam'/>
