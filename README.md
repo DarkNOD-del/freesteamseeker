@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 03 июня 2025 в 18:26 по UTC`  
+Последнее обновление: `Вторник, 03 июня 2025 в 21:15 по UTC`  
 Последняя сохраненная игра: `Раздача Hellslave для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_0-4.jpg' alt='Раздача Hellslave для Steam'/>
