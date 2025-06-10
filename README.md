@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 09 июня 2025 в 21:17 по UTC`  
+Последнее обновление: `Вторник, 10 июня 2025 в 01:27 по UTC`  
 Последняя сохраненная игра: `Раздача Holy Clash Cards для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-568.jpg' alt='Раздача Holy Clash Cards для Steam'/>
