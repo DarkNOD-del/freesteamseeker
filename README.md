@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 12 июня 2025 в 03:46 по UTC`  
+Последнее обновление: `Четверг, 12 июня 2025 в 06:27 по UTC`  
 Последняя сохраненная игра: `Раздача WHAT THE PAK?! для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-569.jpg' alt='Раздача WHAT THE PAK?! для Steam'/>
