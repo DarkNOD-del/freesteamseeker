@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 18 июня 2025 в 12:38 по UTC`  
+Последнее обновление: `Среда, 18 июня 2025 в 15:20 по UTC`  
 Последняя сохраненная игра: `Раздача Paradox Soul для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-571.jpg' alt='Раздача Paradox Soul для Steam'/>
