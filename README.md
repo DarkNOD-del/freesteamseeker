@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 20 июня 2025 в 03:45 по UTC`  
+Последнее обновление: `Пятница, 20 июня 2025 в 06:27 по UTC`  
 Последняя сохраненная игра: `Раздача The Operator для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-572.jpg' alt='Раздача The Operator для EpicGames'/>
