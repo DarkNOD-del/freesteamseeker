@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 20 июня 2025 в 15:18 по UTC`  
-Последняя сохраненная игра: `Раздача The Operator для EpicGames` 
+Последнее обновление: `Пятница, 20 июня 2025 в 18:25 по UTC`  
+Последняя сохраненная игра: `Раздача Space Pilgrim Episode II: Epsilon Indi для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-572.jpg' alt='Раздача The Operator для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-573.jpg' alt='Раздача Space Pilgrim Episode II: Epsilon Indi для Steam'/>
 
 ## 🔗 Сайты-доноры
 
