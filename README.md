@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 21 июня 2025 в 18:22 по UTC`  
+Последнее обновление: `Суббота, 21 июня 2025 в 21:15 по UTC`  
 Последняя сохраненная игра: `Раздача Space Pilgrim Episode II: Epsilon Indi для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-573.jpg' alt='Раздача Space Pilgrim Episode II: Epsilon Indi для Steam'/>
