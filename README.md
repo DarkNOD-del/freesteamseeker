@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 24 июня 2025 в 15:20 по UTC`  
+Последнее обновление: `Вторник, 24 июня 2025 в 18:26 по UTC`  
 Последняя сохраненная игра: `Раздача SteamWorld Dig для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-574.jpg' alt='Раздача SteamWorld Dig для Steam'/>
