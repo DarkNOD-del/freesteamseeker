@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 26 июня 2025 в 15:19 по UTC`  
+Последнее обновление: `Четверг, 26 июня 2025 в 18:26 по UTC`  
 Последняя сохраненная игра: `Раздача Sable для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-575.jpg' alt='Раздача Sable для EpicGames'/>
