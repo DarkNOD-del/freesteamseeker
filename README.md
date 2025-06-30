@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 30 июня 2025 в 15:20 по UTC`  
+Последнее обновление: `Понедельник, 30 июня 2025 в 18:26 по UTC`  
 Последняя сохраненная игра: `Раздача NEXT JUMP: Shmup Tactics для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-576.jpg' alt='Раздача NEXT JUMP: Shmup Tactics для Steam'/>
