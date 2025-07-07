@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 07 июля 2025 в 01:41 по UTC`  
+Последнее обновление: `Понедельник, 07 июля 2025 в 03:53 по UTC`  
 Последняя сохраненная игра: `Раздача Figment для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-578.jpg' alt='Раздача Figment для EpicGames'/>
