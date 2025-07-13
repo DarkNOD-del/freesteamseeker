@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 13 июля 2025 в 09:19 по UTC`  
+Последнее обновление: `Воскресенье, 13 июля 2025 в 12:35 по UTC`  
 Последняя сохраненная игра: `Раздача Ultimate Zombie Defense для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-582.jpg' alt='Раздача Ultimate Zombie Defense для Steam'/>
