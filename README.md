@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 17 июля 2025 в 12:39 по UTC`  
-Последняя сохраненная игра: `Раздача Ultimate Zombie Defense для Steam` 
+Последнее обновление: `Четверг, 17 июля 2025 в 15:21 по UTC`  
+Последняя сохраненная игра: `Раздача Sid Meier’s Civilization VI для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-582.jpg' alt='Раздача Ultimate Zombie Defense для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-583.jpg' alt='Раздача Sid Meier’s Civilization VI для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
