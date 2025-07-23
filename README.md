@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 22 июля 2025 в 21:18 по UTC`  
+Последнее обновление: `Среда, 23 июля 2025 в 01:42 по UTC`  
 Последняя сохраненная игра: `Раздача Sid Meier’s Civilization VI для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-583.jpg' alt='Раздача Sid Meier’s Civilization VI для EpicGames'/>
