@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 27 июля 2025 в 09:19 по UTC`  
+Последнее обновление: `Воскресенье, 27 июля 2025 в 12:37 по UTC`  
 Последняя сохраненная игра: `Раздача Legion TD 2 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-584.jpg' alt='Раздача Legion TD 2 для EpicGames'/>
