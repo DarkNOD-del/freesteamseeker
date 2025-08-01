@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 01 августа 2025 в 09:25 по UTC`  
+Последнее обновление: `Пятница, 01 августа 2025 в 12:40 по UTC`  
 Последняя сохраненная игра: `Раздача Pilgrims (Пилигримы) для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-16.jpg' alt='Раздача Pilgrims (Пилигримы) для EpicGames'/>
