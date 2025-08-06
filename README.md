@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 06 августа 2025 в 06:32 по UTC`  
+Последнее обновление: `Среда, 06 августа 2025 в 09:26 по UTC`  
 Последняя сохраненная игра: `Раздача DRACOMATON для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-588.jpg' alt='Раздача DRACOMATON для Steam'/>
