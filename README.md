@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 07 августа 2025 в 12:42 по UTC`  
+Последнее обновление: `Четверг, 07 августа 2025 в 15:22 по UTC`  
 Последняя сохраненная игра: `Раздача GUNTOUCHABLES для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-589.jpg' alt='Раздача GUNTOUCHABLES для Steam'/>
