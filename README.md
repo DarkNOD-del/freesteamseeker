@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 10 августа 2025 в 21:16 по UTC`  
+Последнее обновление: `Понедельник, 11 августа 2025 в 01:45 по UTC`  
 Последняя сохраненная игра: `Раздача Road Redemption для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-591.jpg' alt='Раздача Road Redemption для EpicGames'/>
