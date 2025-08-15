@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 14 августа 2025 в 21:17 по UTC`  
+Последнее обновление: `Пятница, 15 августа 2025 в 01:37 по UTC`  
 Последняя сохраненная игра: `Раздача Totally Reliable Delivery Service для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-593.jpg' alt='Раздача Totally Reliable Delivery Service для EpicGames'/>
