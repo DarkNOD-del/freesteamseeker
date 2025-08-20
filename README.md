@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 19 августа 2025 в 21:16 по UTC`  
+Последнее обновление: `Среда, 20 августа 2025 в 01:22 по UTC`  
 Последняя сохраненная игра: `Раздача Shade Silver для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-594.jpg' alt='Раздача Shade Silver для Steam'/>
