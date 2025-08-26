@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 26 августа 2025 в 03:40 по UTC`  
+Последнее обновление: `Вторник, 26 августа 2025 в 06:27 по UTC`  
 Последняя сохраненная игра: `Раздача Kamaeru: A Frog Refuge для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-596.jpg' alt='Раздача Kamaeru: A Frog Refuge для EpicGames'/>
