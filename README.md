@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 28 августа 2025 в 06:26 по UTC`  
+Последнее обновление: `Четверг, 28 августа 2025 в 09:18 по UTC`  
 Последняя сохраненная игра: `Раздача Dead In Bermuda для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-597.jpg' alt='Раздача Dead In Bermuda для Steam'/>
