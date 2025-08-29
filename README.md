@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 28 августа 2025 в 21:15 по UTC`  
+Последнее обновление: `Пятница, 29 августа 2025 в 01:20 по UTC`  
 Последняя сохраненная игра: `Раздача Machinarium для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-599.jpg' alt='Раздача Machinarium для EpicGames'/>
