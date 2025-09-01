@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 01 сентября 2025 в 01:41 по UTC`  
+Последнее обновление: `Понедельник, 01 сентября 2025 в 03:50 по UTC`  
 Последняя сохраненная игра: `Раздача Walking Survival для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-600.jpg' alt='Раздача Walking Survival для Steam'/>
