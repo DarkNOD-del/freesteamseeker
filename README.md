@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 05 сентября 2025 в 01:18 по UTC`  
+Последнее обновление: `Пятница, 05 сентября 2025 в 03:29 по UTC`  
 Последняя сохраненная игра: `Раздача Monument Valley для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-601.jpg' alt='Раздача Monument Valley для EpicGames'/>
