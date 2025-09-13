@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 12 сентября 2025 в 21:13 по UTC`  
+Последнее обновление: `Суббота, 13 сентября 2025 в 01:12 по UTC`  
 Последняя сохраненная игра: `Раздача Ghostrunner 2 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-602.jpg' alt='Раздача Ghostrunner 2 для EpicGames'/>
