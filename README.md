@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 18 сентября 2025 в 06:26 по UTC`  
+Последнее обновление: `Четверг, 18 сентября 2025 в 09:18 по UTC`  
 Последняя сохраненная игра: `Раздача PICO PARK:Classic Edition для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-605.jpg' alt='Раздача PICO PARK:Classic Edition для Steam'/>
