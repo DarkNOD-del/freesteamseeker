@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 20 сентября 2025 в 15:14 по UTC`  
-Последняя сохраненная игра: `Раздача Project Winter для EpicGames` 
+Последнее обновление: `Суббота, 20 сентября 2025 в 18:21 по UTC`  
+Последняя сохраненная игра: `Раздача Cybarian: The Time Travelling Warrior для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-608.jpg' alt='Раздача Project Winter для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-609.jpg' alt='Раздача Cybarian: The Time Travelling Warrior для Steam'/>
 
 ## 🔗 Сайты-доноры
 
