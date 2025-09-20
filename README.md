@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 19 сентября 2025 в 21:14 по UTC`  
+Последнее обновление: `Суббота, 20 сентября 2025 в 01:15 по UTC`  
 Последняя сохраненная игра: `Раздача Project Winter для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-608.jpg' alt='Раздача Project Winter для EpicGames'/>
