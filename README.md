@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 24 сентября 2025 в 12:36 по UTC`  
+Последнее обновление: `Среда, 24 сентября 2025 в 15:18 по UTC`  
 Последняя сохраненная игра: `Раздача Cybarian: The Time Travelling Warrior для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-609.jpg' alt='Раздача Cybarian: The Time Travelling Warrior для Steam'/>
