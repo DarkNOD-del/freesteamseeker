@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 30 сентября 2025 в 12:38 по UTC`  
+Последнее обновление: `Вторник, 30 сентября 2025 в 15:16 по UTC`  
 Последняя сохраненная игра: `Раздача Eastern Exorcist для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-611.jpg' alt='Раздача Eastern Exorcist для EpicGames'/>
