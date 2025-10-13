@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 12 октября 2025 в 21:14 по UTC`  
+Последнее обновление: `Понедельник, 13 октября 2025 в 01:23 по UTC`  
 Последняя сохраненная игра: `Раздача Gravity Circuit для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-616.jpg' alt='Раздача Gravity Circuit для EpicGames'/>
