@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 19 октября 2025 в 21:14 по UTC`  
+Последнее обновление: `Понедельник, 20 октября 2025 в 01:25 по UTC`  
 Последняя сохраненная игра: `Раздача Amnesia: The Bunker для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-618.jpg' alt='Раздача Amnesia: The Bunker для EpicGames'/>
