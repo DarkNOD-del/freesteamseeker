@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 25 октября 2025 в 21:14 по UTC`  
+Последнее обновление: `Воскресенье, 26 октября 2025 в 01:26 по UTC`  
 Последняя сохраненная игра: `Раздача Fear the Spotlight для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-619.jpg' alt='Раздача Fear the Spotlight для EpicGames'/>
