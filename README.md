@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 29 октября 2025 в 18:27 по UTC`  
+Последнее обновление: `Среда, 29 октября 2025 в 21:16 по UTC`  
 Последняя сохраненная игра: `Раздача Space Pilgrim Episode III: Delta Pavonis для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-622.jpg' alt='Раздача Space Pilgrim Episode III: Delta Pavonis для Steam'/>
