@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 30 октября 2025 в 15:19 по UTC`  
-Последняя сохраненная игра: `Раздача Space Pilgrim Episode III: Delta Pavonis для Steam` 
+Последнее обновление: `Четверг, 30 октября 2025 в 18:26 по UTC`  
+Последняя сохраненная игра: `Раздача Bendy and the Ink Machine для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-622.jpg' alt='Раздача Space Pilgrim Episode III: Delta Pavonis для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-624.jpg' alt='Раздача Bendy and the Ink Machine для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
