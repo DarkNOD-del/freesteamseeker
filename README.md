@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 01 ноября 2025 в 15:15 по UTC`  
+Последнее обновление: `Суббота, 01 ноября 2025 в 18:22 по UTC`  
 Последняя сохраненная игра: `Раздача Bendy and the Ink Machine для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-624.jpg' alt='Раздача Bendy and the Ink Machine для EpicGames'/>
