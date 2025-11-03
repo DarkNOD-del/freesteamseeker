@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 03 ноября 2025 в 18:26 по UTC`  
+Последнее обновление: `Понедельник, 03 ноября 2025 в 21:16 по UTC`  
 Последняя сохраненная игра: `Раздача Death Fungeon для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-625.jpg' alt='Раздача Death Fungeon для Steam'/>
