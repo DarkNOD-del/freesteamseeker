@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 10 ноября 2025 в 03:49 по UTC`  
+Последнее обновление: `Понедельник, 10 ноября 2025 в 06:30 по UTC`  
 Последняя сохраненная игра: `Раздача Will Glow the Wisp для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-629.jpg' alt='Раздача Will Glow the Wisp для Steam'/>
