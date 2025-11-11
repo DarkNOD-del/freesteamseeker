@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 11 ноября 2025 в 09:20 по UTC`  
+Последнее обновление: `Вторник, 11 ноября 2025 в 12:38 по UTC`  
 Последняя сохраненная игра: `Раздача 12 is Better Than 6 для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-630.jpg' alt='Раздача 12 is Better Than 6 для Steam'/>
