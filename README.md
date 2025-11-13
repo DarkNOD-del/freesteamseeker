@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 13 ноября 2025 в 18:26 по UTC`  
-Последняя сохраненная игра: `Раздача 12 is Better Than 6 для Steam` 
+Последнее обновление: `Четверг, 13 ноября 2025 в 21:17 по UTC`  
+Последняя сохраненная игра: `Ubisoft раздаёт Immortals Fenyx Rising Standard Edition для Uplay` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-630.jpg' alt='Раздача 12 is Better Than 6 для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-632.jpg' alt='Ubisoft раздаёт Immortals Fenyx Rising Standard Edition для Uplay'/>
 
 ## 🔗 Сайты-доноры
 
