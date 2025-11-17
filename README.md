@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 17 ноября 2025 в 09:23 по UTC`  
+Последнее обновление: `Понедельник, 17 ноября 2025 в 12:39 по UTC`  
 Последняя сохраненная игра: `Ubisoft раздаёт Immortals Fenyx Rising Standard Edition для Uplay` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-632.jpg' alt='Ubisoft раздаёт Immortals Fenyx Rising Standard Edition для Uplay'/>
