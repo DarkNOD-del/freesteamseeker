@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 20 ноября 2025 в 12:38 по UTC`  
+Последнее обновление: `Четверг, 20 ноября 2025 в 15:19 по UTC`  
 Последняя сохраненная игра: `Раздача Wednesdays для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-633.jpg' alt='Раздача Wednesdays для Steam'/>
