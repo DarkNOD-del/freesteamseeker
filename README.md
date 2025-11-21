@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 21 ноября 2025 в 15:17 по UTC`  
+Последнее обновление: `Пятница, 21 ноября 2025 в 18:25 по UTC`  
 Последняя сохраненная игра: `Раздача Zero Hour для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-635.jpg' alt='Раздача Zero Hour для EpicGames'/>
