@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 22 ноября 2025 в 09:17 по UTC`  
+Последнее обновление: `Суббота, 22 ноября 2025 в 12:33 по UTC`  
 Последняя сохраненная игра: `Раздача Warhammer: Vermintide 2 для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_25.jpg' alt='Раздача Warhammer: Vermintide 2 для Steam'/>
