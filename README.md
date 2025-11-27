@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 ноября 2025 в 15:19 по UTC`  
-Последняя сохраненная игра: `Раздача Warhammer: Vermintide 2 для Steam` 
+Последнее обновление: `Четверг, 27 ноября 2025 в 18:26 по UTC`  
+Последняя сохраненная игра: `Раздача Universe For Sale для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_25.jpg' alt='Раздача Warhammer: Vermintide 2 для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-636.jpg' alt='Раздача Universe For Sale для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
