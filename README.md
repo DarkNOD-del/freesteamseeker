@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 27 ноября 2025 в 18:26 по UTC`  
+Последнее обновление: `Четверг, 27 ноября 2025 в 21:16 по UTC`  
 Последняя сохраненная игра: `Раздача Universe For Sale для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-636.jpg' alt='Раздача Universe For Sale для EpicGames'/>
