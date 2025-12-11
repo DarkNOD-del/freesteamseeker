@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 10 декабря 2025 в 21:19 по UTC`  
+Последнее обновление: `Четверг, 11 декабря 2025 в 01:38 по UTC`  
 Последняя сохраненная игра: `Раздача Jackbox Party Pack 4 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-637.jpg' alt='Раздача Jackbox Party Pack 4 для EpicGames'/>
