@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 16 декабря 2025 в 09:24 по UTC`  
+Последнее обновление: `Вторник, 16 декабря 2025 в 12:41 по UTC`  
 Последняя сохраненная игра: `Раздача Hogwarts Legacy для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-639.jpg' alt='Раздача Hogwarts Legacy для EpicGames'/>
