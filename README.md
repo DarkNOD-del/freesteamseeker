@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 18 декабря 2025 в 06:31 по UTC`  
+Последнее обновление: `Четверг, 18 декабря 2025 в 09:25 по UTC`  
 Последняя сохраненная игра: `Раздача Wild Terra 2: New Lands для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_5-1.jpg' alt='Раздача Wild Terra 2: New Lands для Steam'/>
