@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 22 декабря 2025 в 18:29 по UTC`  
+Последнее обновление: `Понедельник, 22 декабря 2025 в 21:17 по UTC`  
 Последняя сохраненная игра: `Раздача Paradise Killer для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-645.jpg' alt='Раздача Paradise Killer для EpicGames'/>
