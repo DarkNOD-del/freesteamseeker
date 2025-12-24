@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 24 декабря 2025 в 09:23 по UTC`  
+Последнее обновление: `Среда, 24 декабря 2025 в 12:40 по UTC`  
 Последняя сохраненная игра: `Раздача Bloodstained: Ritual of the Night для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-646.jpg' alt='Раздача Bloodstained: Ritual of the Night для EpicGames'/>
