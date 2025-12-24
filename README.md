@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 24 декабря 2025 в 18:28 по UTC`  
+Последнее обновление: `Среда, 24 декабря 2025 в 21:17 по UTC`  
 Последняя сохраненная игра: `Раздача The Callisto Protocol для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-647.jpg' alt='Раздача The Callisto Protocol для EpicGames'/>
