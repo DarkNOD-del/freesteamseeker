@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 25 декабря 2025 в 18:27 по UTC`  
+Последнее обновление: `Четверг, 25 декабря 2025 в 21:17 по UTC`  
 Последняя сохраненная игра: `Раздача Disco Elysium — The Final Cut для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-648.jpg' alt='Раздача Disco Elysium — The Final Cut для EpicGames'/>
