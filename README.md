@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 25 декабря 2025 в 15:19 по UTC`  
-Последняя сохраненная игра: `Раздача The Callisto Protocol для EpicGames` 
+Последнее обновление: `Четверг, 25 декабря 2025 в 18:27 по UTC`  
+Последняя сохраненная игра: `Раздача Disco Elysium — The Final Cut для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-647.jpg' alt='Раздача The Callisto Protocol для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-648.jpg' alt='Раздача Disco Elysium — The Final Cut для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
