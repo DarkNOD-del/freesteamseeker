@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 28 декабря 2025 в 18:27 по UTC`  
+Последнее обновление: `Воскресенье, 28 декабря 2025 в 21:17 по UTC`  
 Последняя сохраненная игра: `Раздача SKALD: Against the Black Priory для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-651.jpg' alt='Раздача SKALD: Against the Black Priory для EpicGames'/>
