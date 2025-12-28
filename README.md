@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 28 декабря 2025 в 01:48 по UTC`  
+Последнее обновление: `Воскресенье, 28 декабря 2025 в 04:06 по UTC`  
 Последняя сохраненная игра: `Раздача Cassette Beasts для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-650.jpg' alt='Раздача Cassette Beasts для EpicGames'/>
