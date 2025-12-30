@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 30 декабря 2025 в 12:41 по UTC`  
+Последнее обновление: `Вторник, 30 декабря 2025 в 15:20 по UTC`  
 Последняя сохраненная игра: `Раздача Viewfinder для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-652.jpg' alt='Раздача Viewfinder для EpicGames'/>
