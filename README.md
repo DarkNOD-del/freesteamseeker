@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 31 декабря 2025 в 12:40 по UTC`  
+Последнее обновление: `Среда, 31 декабря 2025 в 15:19 по UTC`  
 Последняя сохраненная игра: `Раздача Trine Classic Collection (4 игры) для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-653.jpg' alt='Раздача Trine Classic Collection (4 игры) для EpicGames'/>
