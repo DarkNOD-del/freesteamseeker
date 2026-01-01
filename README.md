@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 31 декабря 2025 в 21:17 по UTC`  
+Последнее обновление: `Четверг, 01 января 2026 в 01:49 по UTC`  
 Последняя сохраненная игра: `Раздача Chivalry 2 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-654.jpg' alt='Раздача Chivalry 2 для EpicGames'/>
