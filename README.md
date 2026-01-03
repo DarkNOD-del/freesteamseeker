@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 03 января 2026 в 15:18 по UTC`  
+Последнее обновление: `Суббота, 03 января 2026 в 18:27 по UTC`  
 Последняя сохраненная игра: `Раздача Wildgate для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_8_russian.jpg' alt='Раздача Wildgate для EpicGames'/>
