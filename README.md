@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 07 января 2026 в 21:18 по UTC`  
+Последнее обновление: `Четверг, 08 января 2026 в 01:41 по UTC`  
 Последняя сохраненная игра: `Раздача Billie’s Wheelie для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-656.jpg' alt='Раздача Billie’s Wheelie для Steam'/>
