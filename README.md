@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 10 января 2026 в 03:55 по UTC`  
+Последнее обновление: `Суббота, 10 января 2026 в 06:29 по UTC`  
 Последняя сохраненная игра: `Раздача Bloons TD 6 для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-657.jpg' alt='Раздача Bloons TD 6 для EpicGames'/>
