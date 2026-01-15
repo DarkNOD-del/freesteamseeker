@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 15 января 2026 в 15:24 по UTC`  
-Последняя сохраненная игра: `Раздача Initial Drift Online для Steam` 
+Последнее обновление: `Четверг, 15 января 2026 в 18:35 по UTC`  
+Последняя сохраненная игра: `Раздача Styx: Shards of Darkness – Deluxe Edition для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-658.jpg' alt='Раздача Initial Drift Online для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-Styx-Shards-of-Darkness.jpg' alt='Раздача Styx: Shards of Darkness – Deluxe Edition для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
