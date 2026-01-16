@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 16 января 2026 в 15:22 по UTC`  
+Последнее обновление: `Пятница, 16 января 2026 в 18:31 по UTC`  
 Последняя сохраненная игра: `Раздача Styx: Shards of Darkness – Deluxe Edition для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-Styx-Shards-of-Darkness.jpg' alt='Раздача Styx: Shards of Darkness – Deluxe Edition для EpicGames'/>
