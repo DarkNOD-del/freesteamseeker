@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 21 января 2026 в 06:35 по UTC`  
+Последнее обновление: `Среда, 21 января 2026 в 09:31 по UTC`  
 Последняя сохраненная игра: `Раздача Battle Simulator: Counter Stickman для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-661.jpg' alt='Раздача Battle Simulator: Counter Stickman для Steam'/>
