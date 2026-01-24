@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 24 января 2026 в 12:38 по UTC`  
+Последнее обновление: `Суббота, 24 января 2026 в 15:19 по UTC`  
 Последняя сохраненная игра: `Раздача Rustler (Grand Theft Horse) для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-662.jpg' alt='Раздача Rustler (Grand Theft Horse) для EpicGames'/>
