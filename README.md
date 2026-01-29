@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 29 января 2026 в 09:40 по UTC`  
+Последнее обновление: `Четверг, 29 января 2026 в 12:55 по UTC`  
 Последняя сохраненная игра: `Раздача Along the Edge для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-664.jpg' alt='Раздача Along the Edge для Steam'/>
