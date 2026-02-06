@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 06 февраля 2026 в 01:59 по UTC`  
+Последнее обновление: `Пятница, 06 февраля 2026 в 04:45 по UTC`  
 Последняя сохраненная игра: `Раздача Botany Manor для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-667.jpg' alt='Раздача Botany Manor для EpicGames'/>
