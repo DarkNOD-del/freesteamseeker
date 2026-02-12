@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 11 февраля 2026 в 21:32 по UTC`  
+Последнее обновление: `Четверг, 12 февраля 2026 в 02:06 по UTC`  
 Последняя сохраненная игра: `Раздача Magellania для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-668.jpg' alt='Раздача Magellania для Steam'/>
