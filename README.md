@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 16 февраля 2026 в 21:27 по UTC`  
+Последнее обновление: `Вторник, 17 февраля 2026 в 02:01 по UTC`  
 Последняя сохраненная игра: `Раздача Nobody Wants to Die для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-670.jpg' alt='Раздача Nobody Wants to Die для EpicGames'/>
