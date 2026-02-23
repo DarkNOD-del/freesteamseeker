@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 23 февраля 2026 в 09:54 по UTC`  
+Последнее обновление: `Понедельник, 23 февраля 2026 в 13:01 по UTC`  
 Последняя сохраненная игра: `Раздача Return to Ash для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-672.jpg' alt='Раздача Return to Ash для EpicGames'/>
