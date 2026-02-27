@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 26 февраля 2026 в 21:30 по UTC`  
+Последнее обновление: `Пятница, 27 февраля 2026 в 01:58 по UTC`  
 Последняя сохраненная игра: `Раздача Boxes: Lost Fragments для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-673.jpg' alt='Раздача Boxes: Lost Fragments для EpicGames'/>
