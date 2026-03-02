@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 02 марта 2026 в 18:45 по UTC`  
-Последняя сохраненная игра: `Раздача Boxes: Lost Fragments для EpicGames` 
+Последнее обновление: `Понедельник, 02 марта 2026 в 21:32 по UTC`  
+Последняя сохраненная игра: `Раздача World Crafter TD для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-673.jpg' alt='Раздача Boxes: Lost Fragments для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-675.jpg' alt='Раздача World Crafter TD для Steam'/>
 
 ## 🔗 Сайты-доноры
 
