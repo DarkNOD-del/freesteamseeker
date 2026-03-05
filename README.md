@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 05 марта 2026 в 12:57 по UTC`  
+Последнее обновление: `Четверг, 05 марта 2026 в 15:49 по UTC`  
 Последняя сохраненная игра: `Раздача World Crafter TD для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-675.jpg' alt='Раздача World Crafter TD для Steam'/>
