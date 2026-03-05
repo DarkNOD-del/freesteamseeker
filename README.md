@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 05 марта 2026 в 15:49 по UTC`  
-Последняя сохраненная игра: `Раздача World Crafter TD для Steam` 
+Последнее обновление: `Четверг, 05 марта 2026 в 19:14 по UTC`  
+Последняя сохраненная игра: `Раздача Turnip Boy Robs a Bank для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-675.jpg' alt='Раздача World Crafter TD для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-676.jpg' alt='Раздача Turnip Boy Robs a Bank для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
