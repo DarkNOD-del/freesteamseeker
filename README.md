@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 08 марта 2026 в 12:46 по UTC`  
+Последнее обновление: `Воскресенье, 08 марта 2026 в 15:22 по UTC`  
 Последняя сохраненная игра: `Раздача Turnip Boy Robs a Bank для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-676.jpg' alt='Раздача Turnip Boy Robs a Bank для EpicGames'/>
