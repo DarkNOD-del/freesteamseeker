@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 09 марта 2026 в 15:57 по UTC`  
-Последняя сохраненная игра: `Раздача Turnip Boy Robs a Bank для EpicGames` 
+Последнее обновление: `Понедельник, 09 марта 2026 в 18:51 по UTC`  
+Последняя сохраненная игра: `Раздача Deponia для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-676.jpg' alt='Раздача Turnip Boy Robs a Bank для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-677.jpg' alt='Раздача Deponia для Steam'/>
 
 ## 🔗 Сайты-доноры
 
