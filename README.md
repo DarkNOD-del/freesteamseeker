@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 19 марта 2026 в 13:02 по UTC`  
-Последняя сохраненная игра: `Раздача Isonzo для EpicGames` 
+Последнее обновление: `Четверг, 19 марта 2026 в 15:53 по UTC`  
+Последняя сохраненная игра: `Раздача Electrician Simulator для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-678.jpg' alt='Раздача Isonzo для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-680.jpg' alt='Раздача Electrician Simulator для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
