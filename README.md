@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 18 марта 2026 в 21:33 по UTC`  
+Последнее обновление: `Четверг, 19 марта 2026 в 02:07 по UTC`  
 Последняя сохраненная игра: `Раздача Isonzo для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-678.jpg' alt='Раздача Isonzo для EpicGames'/>
