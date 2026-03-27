@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 27 марта 2026 в 13:04 по UTC`  
-Последняя сохраненная игра: `Раздача Electrician Simulator для EpicGames` 
+Последнее обновление: `Пятница, 27 марта 2026 в 15:52 по UTC`  
+Последняя сохраненная игра: `Раздача SYMMETRY для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-680.jpg' alt='Раздача Electrician Simulator для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-683.jpg' alt='Раздача SYMMETRY для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
