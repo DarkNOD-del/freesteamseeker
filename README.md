@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 31 марта 2026 в 21:37 по UTC`  
+Последнее обновление: `Среда, 01 апреля 2026 в 02:31 по UTC`  
 Последняя сохраненная игра: `Раздача SYMMETRY для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-683.jpg' alt='Раздача SYMMETRY для EpicGames'/>
