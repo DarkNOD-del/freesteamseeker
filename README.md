@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 02 апреля 2026 в 18:55 по UTC`  
+Последнее обновление: `Четверг, 02 апреля 2026 в 21:36 по UTC`  
 Последняя сохраненная игра: `Раздача Depths Of Horror: Mushroom Day для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-684.jpg' alt='Раздача Depths Of Horror: Mushroom Day для Steam'/>
