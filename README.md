@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 03 апреля 2026 в 18:44 по UTC`  
-Последняя сохраненная игра: `Раздача Depths Of Horror: Mushroom Day для Steam` 
+Последнее обновление: `Пятница, 03 апреля 2026 в 21:32 по UTC`  
+Последняя сохраненная игра: `Раздача House Flipper для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-684.jpg' alt='Раздача Depths Of Horror: Mushroom Day для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-19.jpg' alt='Раздача House Flipper для Steam'/>
 
 ## 🔗 Сайты-доноры
 
