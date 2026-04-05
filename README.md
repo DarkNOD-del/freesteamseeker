@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 04 апреля 2026 в 21:30 по UTC`  
+Последнее обновление: `Воскресенье, 05 апреля 2026 в 02:25 по UTC`  
 Последняя сохраненная игра: `Раздача House Flipper для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-19.jpg' alt='Раздача House Flipper для Steam'/>
