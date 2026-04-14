@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 14 апреля 2026 в 05:21 по UTC`  
+Последнее обновление: `Вторник, 14 апреля 2026 в 07:43 по UTC`  
 Последняя сохраненная игра: `Раздача Graveyard Keeper для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-687.jpg' alt='Раздача Graveyard Keeper для Steam'/>
