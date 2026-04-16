@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 16 апреля 2026 в 16:21 по UTC`  
-Последняя сохраненная игра: `Раздача Graveyard Keeper для Steam` 
+Последнее обновление: `Четверг, 16 апреля 2026 в 19:11 по UTC`  
+Последняя сохраненная игра: `Раздача Legend of Keepers: Career of a Dungeon Manager для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-687.jpg' alt='Раздача Graveyard Keeper для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-691.jpg' alt='Раздача Legend of Keepers: Career of a Dungeon Manager для Steam'/>
 
 ## 🔗 Сайты-доноры
 
