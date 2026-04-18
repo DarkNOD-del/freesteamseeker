@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 18 апреля 2026 в 18:50 по UTC`  
+Последнее обновление: `Суббота, 18 апреля 2026 в 21:34 по UTC`  
 Последняя сохраненная игра: `Раздача Legend of Keepers: Career of a Dungeon Manager для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-691.jpg' alt='Раздача Legend of Keepers: Career of a Dungeon Manager для Steam'/>
