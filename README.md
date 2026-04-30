@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 30 апреля 2026 в 13:51 по UTC`  
-Последняя сохраненная игра: `Раздача 8AM для Steam` 
+Последнее обновление: `Четверг, 30 апреля 2026 в 16:17 по UTC`  
+Последняя сохраненная игра: `Раздача Hogwarts Legacy для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-695.jpg' alt='Раздача 8AM для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-696.jpg' alt='Раздача Hogwarts Legacy для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
