@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 03 мая 2026 в 08:07 по UTC`  
-Последняя сохраненная игра: `Раздача Hogwarts Legacy для EpicGames` 
+Последнее обновление: `Воскресенье, 03 мая 2026 в 10:02 по UTC`  
+Последняя сохраненная игра: `Раздача Overcome Your Fears — Caretaker для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-696.jpg' alt='Раздача Hogwarts Legacy для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-698.jpg' alt='Раздача Overcome Your Fears — Caretaker для Steam'/>
 
 ## 🔗 Сайты-доноры
 
