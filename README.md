@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 07 мая 2026 в 11:08 по UTC`  
+Последнее обновление: `Четверг, 07 мая 2026 в 14:04 по UTC`  
 Последняя сохраненная игра: `Раздача Overcome Your Fears — Caretaker для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-698.jpg' alt='Раздача Overcome Your Fears — Caretaker для Steam'/>
