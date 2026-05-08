@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 08 мая 2026 в 10:23 по UTC`  
-Последняя сохраненная игра: `Раздача Overcome Your Fears — Caretaker для Steam` 
+Последнее обновление: `Пятница, 08 мая 2026 в 13:44 по UTC`  
+Последняя сохраненная игра: `Раздача Arranger: A Role-Puzzling Adventure для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-698.jpg' alt='Раздача Overcome Your Fears — Caretaker для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-700.jpg' alt='Раздача Arranger: A Role-Puzzling Adventure для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
