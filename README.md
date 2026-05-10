@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 09 мая 2026 в 21:41 по UTC`  
+Последнее обновление: `Воскресенье, 10 мая 2026 в 02:50 по UTC`  
 Последняя сохраненная игра: `Раздача Arranger: A Role-Puzzling Adventure для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-700.jpg' alt='Раздача Arranger: A Role-Puzzling Adventure для EpicGames'/>
