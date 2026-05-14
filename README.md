@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 14 мая 2026 в 16:59 по UTC`  
-Последняя сохраненная игра: `Раздача Telltale Batman Shadows Edition для EpicGames` 
+Последнее обновление: `Четверг, 14 мая 2026 в 19:43 по UTC`  
+Последняя сохраненная игра: `Раздача Terrors to Unveil — Day Off для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-701.jpg' alt='Раздача Telltale Batman Shadows Edition для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-704.jpg' alt='Раздача Terrors to Unveil — Day Off для Steam'/>
 
 ## 🔗 Сайты-доноры
 
