@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 15 мая 2026 в 16:50 по UTC`  
+Последнее обновление: `Пятница, 15 мая 2026 в 19:27 по UTC`  
 Последняя сохраненная игра: `Раздача Terrors to Unveil — Day Off для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-704.jpg' alt='Раздача Terrors to Unveil — Day Off для Steam'/>
