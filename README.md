@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 24 мая 2026 в 10:40 по UTC`  
+Последнее обновление: `Воскресенье, 24 мая 2026 в 13:23 по UTC`  
 Последняя сохраненная игра: `Раздача Warhammer 40,000: Gladius — Relics of War для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_4-2.jpg' alt='Раздача Warhammer 40,000: Gladius — Relics of War для Steam'/>
