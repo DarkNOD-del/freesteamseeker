@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 05 июня 2026 в 09:46 по UTC`  
-Последняя сохраненная игра: `Раздача Drift86 для Steam` 
+Последнее обновление: `Пятница, 05 июня 2026 в 14:47 по UTC`  
+Последняя сохраненная игра: `Раздача Songs of Conquest для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-710.jpg' alt='Раздача Drift86 для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11_russian.jpg' alt='Раздача Songs of Conquest для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
