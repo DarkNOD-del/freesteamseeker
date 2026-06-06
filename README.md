@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 06 июня 2026 в 16:04 по UTC`  
+Последнее обновление: `Суббота, 06 июня 2026 в 19:20 по UTC`  
 Последняя сохраненная игра: `Раздача Songs of Conquest для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11_russian.jpg' alt='Раздача Songs of Conquest для EpicGames'/>
