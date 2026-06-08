@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 08 июня 2026 в 03:54 по UTC`  
-Последняя сохраненная игра: `Раздача Songs of Conquest для EpicGames` 
+Последнее обновление: `Понедельник, 08 июня 2026 в 10:50 по UTC`  
+Последняя сохраненная игра: `Раздача Remothered: Tormented Fathers для Steam и GOG` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11_russian.jpg' alt='Раздача Songs of Conquest для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-717.jpg' alt='Раздача Remothered: Tormented Fathers для Steam и GOG'/>
 
 ## 🔗 Сайты-доноры
 
