@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 11 июня 2026 в 03:52 по UTC`  
+Последнее обновление: `Четверг, 11 июня 2026 в 10:21 по UTC`  
 Последняя сохраненная игра: `Раздача Remothered: Tormented Fathers для Steam и GOG` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-717.jpg' alt='Раздача Remothered: Tormented Fathers для Steam и GOG'/>
