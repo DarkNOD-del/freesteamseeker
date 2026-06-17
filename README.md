@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 17 июня 2026 в 04:00 по UTC`  
+Последнее обновление: `Среда, 17 июня 2026 в 10:52 по UTC`  
 Последняя сохраненная игра: `Раздача The Red Lantern для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-720.jpg' alt='Раздача The Red Lantern для Steam'/>
