@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 18 июня 2026 в 15:20 по UTC`  
-Последняя сохраненная игра: `Раздача The Red Lantern для Steam` 
+Последнее обновление: `Четверг, 18 июня 2026 в 20:23 по UTC`  
+Последняя сохраненная игра: `Раздача Citizen Sleeper для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-720.jpg' alt='Раздача The Red Lantern для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-722.jpg' alt='Раздача Citizen Sleeper для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
