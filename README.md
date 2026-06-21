@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 21 июня 2026 в 16:44 по UTC`  
+Последнее обновление: `Воскресенье, 21 июня 2026 в 19:27 по UTC`  
 Последняя сохраненная игра: `Раздача Citizen Sleeper для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-722.jpg' alt='Раздача Citizen Sleeper для EpicGames'/>
