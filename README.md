@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 25 июня 2026 в 14:29 по UTC`  
-Последняя сохраненная игра: `Раздача Citizen Sleeper для EpicGames` 
+Последнее обновление: `Четверг, 25 июня 2026 в 17:10 по UTC`  
+Последняя сохраненная игра: `Раздача RollerCoaster Tycoon 3 для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-722.jpg' alt='Раздача Citizen Sleeper для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-723.jpg' alt='Раздача RollerCoaster Tycoon 3 для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
