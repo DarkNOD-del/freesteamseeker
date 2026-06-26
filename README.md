@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 26 июня 2026 в 16:59 по UTC`  
-Последняя сохраненная игра: `Раздача RollerCoaster Tycoon 3 для EpicGames` 
+Последнее обновление: `Пятница, 26 июня 2026 в 19:44 по UTC`  
+Последняя сохраненная игра: `Раздача POPGOES Arcade для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-723.jpg' alt='Раздача RollerCoaster Tycoon 3 для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-725.jpg' alt='Раздача POPGOES Arcade для Steam'/>
 
 ## 🔗 Сайты-доноры
 
