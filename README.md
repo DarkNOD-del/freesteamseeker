@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 27 июня 2026 в 06:31 по UTC`  
+Последнее обновление: `Суббота, 27 июня 2026 в 10:56 по UTC`  
 Последняя сохраненная игра: `Раздача POPGOES Arcade для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-725.jpg' alt='Раздача POPGOES Arcade для Steam'/>
