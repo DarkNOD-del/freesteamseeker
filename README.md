@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 03 июля 2026 в 06:31 по UTC`  
-Последняя сохраненная игра: `Раздача POPGOES Arcade для Steam` 
+Последнее обновление: `Пятница, 03 июля 2026 в 11:30 по UTC`  
+Последняя сохраненная игра: `Раздача River City Girls 2 для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-725.jpg' alt='Раздача POPGOES Arcade для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-727.jpg' alt='Раздача River City Girls 2 для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
