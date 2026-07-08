@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 08 июля 2026 в 14:01 по UTC`  
-Последняя сохраненная игра: `Раздача River City Girls 2 для EpicGames` 
+Последнее обновление: `Среда, 08 июля 2026 в 16:37 по UTC`  
+Последняя сохраненная игра: `Раздача Silence для GOG` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-727.jpg' alt='Раздача River City Girls 2 для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-728.jpg' alt='Раздача Silence для GOG'/>
 
 ## 🔗 Сайты-доноры
 
