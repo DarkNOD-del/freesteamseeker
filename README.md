@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 16 июля 2026 в 05:38 по UTC`  
+Последнее обновление: `Четверг, 16 июля 2026 в 08:09 по UTC`  
 Последняя сохраненная игра: `Раздача Tattoo Tycoon для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-730.jpg' alt='Раздача Tattoo Tycoon для EpicGames'/>
