@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 18 июля 2026 в 10:16 по UTC`  
+Последнее обновление: `Суббота, 18 июля 2026 в 13:10 по UTC`  
 Последняя сохраненная игра: `Раздача Echo Generation: Midnight Edition для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-734.jpg' alt='Раздача Echo Generation: Midnight Edition для EpicGames'/>
