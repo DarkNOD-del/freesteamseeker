@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 18 июля 2026 в 13:10 по UTC`  
-Последняя сохраненная игра: `Раздача Echo Generation: Midnight Edition для EpicGames` 
+Последнее обновление: `Суббота, 18 июля 2026 в 15:55 по UTC`  
+Последняя сохраненная игра: `Раздача The Life and Suffering of Sir Brante для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-734.jpg' alt='Раздача Echo Generation: Midnight Edition для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-735.jpg' alt='Раздача The Life and Suffering of Sir Brante для Steam'/>
 
 ## 🔗 Сайты-доноры
 
