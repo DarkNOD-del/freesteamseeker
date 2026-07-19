@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 19 июля 2026 в 15:56 по UTC`  
+Последнее обновление: `Воскресенье, 19 июля 2026 в 19:03 по UTC`  
 Последняя сохраненная игра: `Раздача The Life and Suffering of Sir Brante для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-735.jpg' alt='Раздача The Life and Suffering of Sir Brante для Steam'/>
