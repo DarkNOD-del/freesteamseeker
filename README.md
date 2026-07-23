@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 23 июля 2026 в 13:53 по UTC`  
-Последняя сохраненная игра: `Раздача The Life and Suffering of Sir Brante для Steam` 
+Последнее обновление: `Четверг, 23 июля 2026 в 16:24 по UTC`  
+Последняя сохраненная игра: `Раздача Foretales для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-735.jpg' alt='Раздача The Life and Suffering of Sir Brante для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-736.jpg' alt='Раздача Foretales для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
