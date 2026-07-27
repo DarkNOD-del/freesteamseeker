@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 27 июля 2026 в 16:55 по UTC`  
+Последнее обновление: `Понедельник, 27 июля 2026 в 19:24 по UTC`  
 Последняя сохраненная игра: `Раздача Yet Another Zombie Defense HD для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-737.jpg' alt='Раздача Yet Another Zombie Defense HD для Steam'/>
