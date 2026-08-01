@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 01 августа 2026 в 10:38 по UTC`  
+Последнее обновление: `Суббота, 01 августа 2026 в 13:16 по UTC`  
 Последняя сохраненная игра: `Раздача Sol Cesto для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-739.jpg' alt='Раздача Sol Cesto для EpicGames'/>
