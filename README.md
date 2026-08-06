@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 06 августа 2026 в 11:21 по UTC`  
+Последнее обновление: `Четверг, 06 августа 2026 в 14:03 по UTC`  
 Последняя сохраненная игра: `Раздача Moonlighter для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_8-2.jpg' alt='Раздача Moonlighter для Steam'/>
