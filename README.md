@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 07 августа 2026 в 18:53 по UTC`  
-Последняя сохраненная игра: `Раздача Spider Fox для EpicGames` 
+Последнее обновление: `Пятница, 07 августа 2026 в 21:36 по UTC`  
+Последняя сохраненная игра: `Раздача Breathedge для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-742.jpg' alt='Раздача Spider Fox для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-743.jpg' alt='Раздача Breathedge для Steam'/>
 
 ## 🔗 Сайты-доноры
 
