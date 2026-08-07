@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 06 августа 2026 в 23:56 по UTC`  
+Последнее обновление: `Пятница, 07 августа 2026 в 02:40 по UTC`  
 Последняя сохраненная игра: `Раздача Spider Fox для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-742.jpg' alt='Раздача Spider Fox для EpicGames'/>
