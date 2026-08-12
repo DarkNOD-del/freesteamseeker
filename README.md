@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 11 августа 2026 в 21:42 по UTC`  
+Последнее обновление: `Среда, 12 августа 2026 в 01:47 по UTC`  
 Последняя сохраненная игра: `Раздача Breathedge для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-743.jpg' alt='Раздача Breathedge для Steam'/>
