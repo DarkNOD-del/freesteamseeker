@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 13 августа 2026 в 15:56 по UTC`  
-Последняя сохраненная игра: `Раздача Breathedge для Steam` 
+Последнее обновление: `Четверг, 13 августа 2026 в 18:59 по UTC`  
+Последняя сохраненная игра: `Раздача Deponia для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-743.jpg' alt='Раздача Breathedge для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-745.jpg' alt='Раздача Deponia для Steam'/>
 
 ## 🔗 Сайты-доноры
 
