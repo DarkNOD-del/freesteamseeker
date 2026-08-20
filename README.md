@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 20 августа 2026 в 15:30 по UTC`  
-Последняя сохраненная игра: `Раздача Deponia для Steam` 
+Последнее обновление: `Четверг, 20 августа 2026 в 18:35 по UTC`  
+Последняя сохраненная игра: `Раздача Cardpocalypse для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-745.jpg' alt='Раздача Deponia для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-746.jpg' alt='Раздача Cardpocalypse для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
