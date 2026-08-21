@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 21 августа 2026 в 09:33 по UTC`  
+Последнее обновление: `Пятница, 21 августа 2026 в 12:42 по UTC`  
 Последняя сохраненная игра: `Раздача Cardpocalypse для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-746.jpg' alt='Раздача Cardpocalypse для EpicGames'/>
