@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 24 августа 2026 в 18:36 по UTC`  
-Последняя сохраненная игра: `Раздача Cardpocalypse для EpicGames` 
+Последнее обновление: `Понедельник, 24 августа 2026 в 21:26 по UTC`  
+Последняя сохраненная игра: `Раздача Dokimon Quest для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-746.jpg' alt='Раздача Cardpocalypse для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-747.jpg' alt='Раздача Dokimon Quest для Steam'/>
 
 ## 🔗 Сайты-доноры
 
