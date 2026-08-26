@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 26 августа 2026 в 16:15 по UTC`  
+Последнее обновление: `Среда, 26 августа 2026 в 19:45 по UTC`  
 Последняя сохраненная игра: `Раздача Dokimon Quest для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-747.jpg' alt='Раздача Dokimon Quest для Steam'/>
