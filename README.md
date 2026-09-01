@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 01 сентября 2026 в 08:18 по UTC`  
+Последнее обновление: `Вторник, 01 сентября 2026 в 13:55 по UTC`  
 Последняя сохраненная игра: `Раздача Rival Stars Horse Racing для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-748.jpg' alt='Раздача Rival Stars Horse Racing для EpicGames'/>
