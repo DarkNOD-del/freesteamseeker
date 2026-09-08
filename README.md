@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 08 сентября 2026 в 16:00 по UTC`  
+Последнее обновление: `Вторник, 08 сентября 2026 в 20:45 по UTC`  
 Последняя сохраненная игра: `Раздача Alone With You для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-749.jpg' alt='Раздача Alone With You для EpicGames'/>
