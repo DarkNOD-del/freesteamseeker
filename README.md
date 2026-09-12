@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Суббота, 12 сентября 2026 в 15:00 по UTC`  
+Последнее обновление: `Суббота, 12 сентября 2026 в 20:12 по UTC`  
 Последняя сохраненная игра: `Раздача Astral Ascent для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-751.jpg' alt='Раздача Astral Ascent для EpicGames'/>
