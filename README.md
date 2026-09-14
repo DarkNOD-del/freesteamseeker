@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 14 сентября 2026 в 03:28 по UTC`  
-Последняя сохраненная игра: `Раздача Astral Ascent для EpicGames` 
+Последнее обновление: `Понедельник, 14 сентября 2026 в 11:51 по UTC`  
+Последняя сохраненная игра: `Раздача Crystal Crisis для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-751.jpg' alt='Раздача Astral Ascent для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-752.jpg' alt='Раздача Crystal Crisis для Steam'/>
 
 ## 🔗 Сайты-доноры
 
