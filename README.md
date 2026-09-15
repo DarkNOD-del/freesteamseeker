@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 14 сентября 2026 в 21:30 по UTC`  
+Последнее обновление: `Вторник, 15 сентября 2026 в 03:29 по UTC`  
 Последняя сохраненная игра: `Раздача Crystal Crisis для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-752.jpg' alt='Раздача Crystal Crisis для Steam'/>
