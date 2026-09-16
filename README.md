@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 16 сентября 2026 в 10:52 по UTC`  
-Последняя сохраненная игра: `Раздача Crystal Crisis для Steam` 
+Последнее обновление: `Среда, 16 сентября 2026 в 16:09 по UTC`  
+Последняя сохраненная игра: `Ubisoft раздаёт For Honor для Uplay` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-752.jpg' alt='Раздача Crystal Crisis для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11.jpg' alt='Ubisoft раздаёт For Honor для Uplay'/>
 
 ## 🔗 Сайты-доноры
 
