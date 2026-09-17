@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 17 сентября 2026 в 03:31 по UTC`  
+Последнее обновление: `Четверг, 17 сентября 2026 в 10:59 по UTC`  
 Последняя сохраненная игра: `Ubisoft раздаёт For Honor для Uplay` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11.jpg' alt='Ubisoft раздаёт For Honor для Uplay'/>
