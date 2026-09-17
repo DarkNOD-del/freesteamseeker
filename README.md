@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 17 сентября 2026 в 10:59 по UTC`  
-Последняя сохраненная игра: `Ubisoft раздаёт For Honor для Uplay` 
+Последнее обновление: `Четверг, 17 сентября 2026 в 16:16 по UTC`  
+Последняя сохраненная игра: `Раздача Shogun Showdown для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_11.jpg' alt='Ubisoft раздаёт For Honor для Uplay'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-755.jpg' alt='Раздача Shogun Showdown для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
