@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Вторник, 22 сентября 2026 в 10:59 по UTC`  
+Последнее обновление: `Вторник, 22 сентября 2026 в 16:18 по UTC`  
 Последняя сохраненная игра: `Раздача Shogun Showdown для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-755.jpg' alt='Раздача Shogun Showdown для EpicGames'/>
