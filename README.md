@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 24 сентября 2026 в 16:31 по UTC`  
-Последняя сохраненная игра: `Раздача Shogun Showdown для EpicGames` 
+Последнее обновление: `Четверг, 24 сентября 2026 в 21:09 по UTC`  
+Последняя сохраненная игра: `Раздача Mechabellum для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-755.jpg' alt='Раздача Shogun Showdown для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_2-4.jpg' alt='Раздача Mechabellum для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
