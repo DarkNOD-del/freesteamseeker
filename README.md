@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 01 октября 2026 в 04:16 по UTC`  
+Последнее обновление: `Четверг, 01 октября 2026 в 12:28 по UTC`  
 Последняя сохраненная игра: `Раздача Mechabellum для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_alt_assets_2-4.jpg' alt='Раздача Mechabellum для EpicGames'/>
