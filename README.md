@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 07 октября 2026 в 09:50 по UTC`  
+Последнее обновление: `Среда, 07 октября 2026 в 18:27 по UTC`  
 Последняя сохраненная игра: `Раздача System Shock 2: 25th Anniversary Remaster для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-758.jpg' alt='Раздача System Shock 2: 25th Anniversary Remaster для EpicGames'/>
