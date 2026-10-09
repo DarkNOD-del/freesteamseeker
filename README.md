@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 09 октября 2026 в 10:04 по UTC`  
-Последняя сохраненная игра: `Раздача Pony Island для Steam` 
+Последнее обновление: `Пятница, 09 октября 2026 в 17:58 по UTC`  
+Последняя сохраненная игра: `Раздача Fireside Feelings для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-761.jpg' alt='Раздача Pony Island для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-762.jpg' alt='Раздача Fireside Feelings для Steam'/>
 
 ## 🔗 Сайты-доноры
 
