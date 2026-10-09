@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 08 октября 2026 в 18:27 по UTC`  
-Последняя сохраненная игра: `Раздача TerraScape для EpicGames` 
+Последнее обновление: `Пятница, 09 октября 2026 в 00:58 по UTC`  
+Последняя сохраненная игра: `Раздача Pony Island для Steam` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-760.jpg' alt='Раздача TerraScape для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-761.jpg' alt='Раздача Pony Island для Steam'/>
 
 ## 🔗 Сайты-доноры
 
