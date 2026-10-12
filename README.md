@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Понедельник, 12 октября 2026 в 00:13 по UTC`  
+Последнее обновление: `Понедельник, 12 октября 2026 в 10:14 по UTC`  
 Последняя сохраненная игра: `Раздача Fireside Feelings для Steam` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header-762.jpg' alt='Раздача Fireside Feelings для Steam'/>
