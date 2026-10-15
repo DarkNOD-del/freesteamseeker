@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 15 октября 2026 в 16:20 по UTC`  
-Последняя сохраненная игра: `Раздача Fireside Feelings для Steam` 
+Последнее обновление: `Четверг, 15 октября 2026 в 20:56 по UTC`  
+Последняя сохраненная игра: `Раздача Agent A: A puzzle in disguise для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-762.jpg' alt='Раздача Fireside Feelings для Steam'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-20.jpg' alt='Раздача Agent A: A puzzle in disguise для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
