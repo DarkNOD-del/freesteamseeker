@@ -6,7 +6,7 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Воскресенье, 18 октября 2026 в 22:46 по UTC`  
+Последнее обновление: `Понедельник, 19 октября 2026 в 03:20 по UTC`  
 Последняя сохраненная игра: `Раздача Agent A: A puzzle in disguise для EpicGames` 
 
 <img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-20.jpg' alt='Раздача Agent A: A puzzle in disguise для EpicGames'/>
