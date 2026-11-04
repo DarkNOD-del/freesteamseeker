@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Среда, 04 ноября 2026 в 01:01 по UTC`  
-Последняя сохраненная игра: `Раздача Agent A: A puzzle in disguise для EpicGames` 
+Последнее обновление: `Среда, 04 ноября 2026 в 10:29 по UTC`  
+Последняя сохраненная игра: `Раздача Sorry We’re Closed для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header_russian-20.jpg' alt='Раздача Agent A: A puzzle in disguise для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-764.jpg' alt='Раздача Sorry We’re Closed для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
