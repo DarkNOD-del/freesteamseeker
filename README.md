@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 05 ноября 2026 в 10:21 по UTC`  
-Последняя сохраненная игра: `Раздача Sorry We’re Closed для EpicGames` 
+Последнее обновление: `Четверг, 05 ноября 2026 в 19:30 по UTC`  
+Последняя сохраненная игра: `Раздача Flotsam для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-764.jpg' alt='Раздача Sorry We’re Closed для EpicGames'/>
+<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-765.jpg' alt='Раздача Flotsam для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
