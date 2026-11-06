@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Пятница, 06 ноября 2026 в 10:23 по UTC`  
+Последнее обновление: `Пятница, 06 ноября 2026 в 18:54 по UTC`  
 Последняя сохраненная игра: `Раздача Flotsam для EpicGames` 
 
-<img width="100%" src='https://freesteam.ru/wp-content/uploads/header-765.jpg' alt='Раздача Flotsam для EpicGames'/>
+<img width="100%" src='None' alt='Раздача Flotsam для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
