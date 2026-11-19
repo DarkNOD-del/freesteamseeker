@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 19 ноября 2026 в 11:07 по UTC`  
-Последняя сохраненная игра: `Раздача Knightica для EpicGames` 
+Последнее обновление: `Четверг, 19 ноября 2026 в 19:57 по UTC`  
+Последняя сохраненная игра: `Раздача Mark of the Deep для EpicGames` 
 
-<img width="100%" src='None' alt='Раздача Knightica для EpicGames'/>
+<img width="100%" src='None' alt='Раздача Mark of the Deep для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
