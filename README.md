@@ -6,10 +6,10 @@
 
 ## ⚡️ Актуальные данные
 
-Последнее обновление: `Четверг, 26 ноября 2026 в 11:54 по UTC`  
-Последняя сохраненная игра: `Раздача Mark of the Deep для EpicGames` 
+Последнее обновление: `Четверг, 26 ноября 2026 в 20:56 по UTC`  
+Последняя сохраненная игра: `Раздача Bread & Fred для EpicGames` 
 
-<img width="100%" src='None' alt='Раздача Mark of the Deep для EpicGames'/>
+<img width="100%" src='None' alt='Раздача Bread & Fred для EpicGames'/>
 
 ## 🔗 Сайты-доноры
 
